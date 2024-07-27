@@ -4,7 +4,7 @@
   "description": "API project for freeCodeCamp",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node --watch index.js"
   },
   "dependencies": {
     "cors": "^2.8.1",
@@ -13,13 +13,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/freeCodeCamp/boilerplate-project-headerparser.git"
+    "url": "https://github.com/wittawatTon/-headerParserAPI.git"
   },
   "bugs": {
     "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues"
   },
   "homepage": "https://github.com/freeCodeCamp/boilerplate-project-headerparser#readme",
-  "author": "freeCodeCamp <team@freecodecamp.org>",
+  "author": "Wittawat Na Ranong<wittawat.naranong@gmail.com",
   "keywords": [
     "freeCodeCamp",
     "node",
